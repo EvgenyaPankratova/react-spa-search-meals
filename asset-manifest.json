@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-spa-search-meals/static/css/main.f0fbdd2d.css",
+    "main.js": "/react-spa-search-meals/static/js/main.81f61ea4.js",
+    "index.html": "/react-spa-search-meals/index.html",
+    "main.f0fbdd2d.css.map": "/react-spa-search-meals/static/css/main.f0fbdd2d.css.map",
+    "main.81f61ea4.js.map": "/react-spa-search-meals/static/js/main.81f61ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0fbdd2d.css",
+    "static/js/main.81f61ea4.js"
+  ]
+}
